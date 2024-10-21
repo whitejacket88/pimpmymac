@@ -35,13 +35,16 @@ git clone hhttps://github.com/whitejacket88/pimpmymac.git
 Make both scripts executable by running the following commands:
 
 cd pimpmymac
+
 chmod +x pimpmymac.sh
+
 chmod +x unpimpmymac.sh
-3. Run Pimp My Mac Script
+
+### 3. Run Pimp My Mac Script
 To install penetration testing tools, run:
 
-
 ./pimpmymac.sh
+
 Follow the prompts during the installation process.
 
 Installed Tools and Their Uses
@@ -93,24 +96,28 @@ Usage: Web directory enumeration.
 
 To clean up and uninstall unused applications and perform system maintenance, run:
 
-bash
-Copy code
 ./unpimpmymac.sh
+
 This script will:
 
-Remove specified applications
-Clear system caches
-Clean up Homebrew packages
-Remove old logs
-Restart certain system services
+* Remove specified applications
+* Clear system caches
+* Clean up Homebrew packages
+* Remove old logs
+* Restart certain system services
+
 Usage
 
 pimpmymac.sh: Use this script to set up your Mac for penetration testing by installing the necessary tools.
+
 unpimpmymac.sh: Use this script to clean up your Mac and remove any unnecessary applications.
+
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author
 
+ Whitejacket88
+ Tom White 
 
