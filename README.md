@@ -28,8 +28,10 @@ First, clone the repository to your local machine:
 
 
 git clone hhttps://github.com/whitejacket88/pimpmymac.git
-cd repo
-2. Make Scripts Executable
+
+
+### 2. Make Scripts Executable
+
 Make both scripts executable by running the following commands:
 
 cd pimpmymac
